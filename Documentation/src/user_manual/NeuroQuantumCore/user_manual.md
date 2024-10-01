@@ -41,12 +41,15 @@ You can then create a NeuroQuantumCore object:
 
 You can use the train_model method to train a quantum neural network:
 
+```python
 1. neuro_quantum_core.train_model()
-
+```
 You can use the predict method to make predictions with the trained model:
 
 ```python
 1. prediction = neuro_quantum_core.predict()
 ```
-Conclusion
+
+# Conclusion
+
 NeuroQuantumCore is a powerful tool for working with quantum neural networks. With its simple and intuitive API, you can easily train and use quantum neural networks in your Python scripts.
