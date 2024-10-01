@@ -1,3 +1,10 @@
+[![UN SDGs](https://img.shields.io/badge/UN_SDGs-2030-blue)](https://www.un.org/sustainabledevelopment/)
+[![UNESCO](https://img.shields.io/badge/UNESCO-Education_Science_Culture-blue)](https://www.unesco.org/)
+[![EU Horizon 2020](https://img.shields.io/badge/EU_Horizon_2020-Innovation_Research-blue)](https://ec.europa.eu/programmes/horizon2020/)
+[![EU Digital Single Market](https://img.shields.io/badge/EU_Digital_Single_Market-Digital_Economy-blue)](https://ec.europa.eu/digital-single-market/)
+[![ITU](https://img.shields.io/badge/ITU-International_Cooperation-blue)](https://www.itu.int/)
+[![WIPO](https://img.shields.io/badge/WIPO-Intellectual_Property_Innovation-blue)](https://www.wipo.int/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Chronostic-Nexus">Chronostic</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # Chronostic-Nexus
