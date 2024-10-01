@@ -1,2 +1,36 @@
-# Google App Engine generated folder
-appengine-generated/
+# Ignore files and directories that should not be version-controlled
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python files
+*.pyc
+*.egg-info
+dist
+build
+
+# Qiskit files
+*.qasm
+*.qiskit
+
+# Documentation files
+docs/_build
+docs/source/conf.py
+
+# Test files
+tests/__pycache__
+tests/*.pyc
+
+# Virtual environment files
+venv
+env
+
+# IDE files
+.vscode
+.idea
+
+# Miscellaneous files
+*.log
+*.tmp
+*.bak
