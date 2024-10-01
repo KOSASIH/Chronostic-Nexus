@@ -12,6 +12,7 @@ Chronostic-Nexus is a comprehensive framework that integrates cutting-edge techn
 *   **NeuroQuantum Core**: A quantum-inspired neural network framework for building and training machine learning models.
 *   **ChronoChain**: A blockchain-based platform for secure and transparent data management and transactions.
 *   **Quantum Entanglement Network**: A quantum entanglement-based network for secure and efficient communication.
+*   **Graviton-based Storage (GBS)**: A revolutionary, gravity-manipulation technology that allows for the storage of vast amounts of data in a compact, quantum-entangled format. GBS enables Chronostic to store and retrieve information with unprecedented efficiency.
 
 ## Features
 
