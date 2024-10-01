@@ -6,6 +6,10 @@
 [![WIPO](https://img.shields.io/badge/WIPO-Intellectual_Property_Innovation-blue)](https://www.wipo.int/)
 [![WHO Digital Health](https://img.shields.io/badge/WHO_Digital_Health-Digital_Health-blue)](https://www.who.int/news-room/q-and-a/detail/digital-health)
 [![WHO Health for All](https://img.shields.io/badge/WHO_Health_for_All-Health_for_All-blue)](https://www.who.int/news-room/q-and-a/detail/health-for-all)
+[![ILO](https://img.shields.io/badge/ILO-Decent_Work-blue)](https://www.ilo.org/)
+[![ILO Global Jobs Pact](https://img.shields.io/badge/ILO_Global_Jobs_Pact-Jobs_and_Social_Protection-blue)](https://www.ilo.org/global/topics/jobs-pact/lang--en/index.htm)
+[![UNCTAD](https://img.shields.io/badge/UNCTAD-Trade_and_Development-blue)](https://unctad.org/)
+[![UNCTAD eTrade for All](https://img.shields.io/badge/UNCTAD_eTrade_for_All-Digital_Trade-blue)](https://unctad.org/en/Pages/DTL/ETDA/ETDA.aspx)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Chronostic-Nexus">Chronostic</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
