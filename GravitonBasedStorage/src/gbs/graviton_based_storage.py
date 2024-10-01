@@ -1,4 +1,4 @@
-# gbs.py
+# graviton_based_storage.py
 
 import numpy as np
 from scipy.linalg import expm
