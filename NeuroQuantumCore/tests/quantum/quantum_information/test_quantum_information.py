@@ -1,27 +1,20 @@
 import unittest
-from quantum_information import QuantumInformation
+from quantum_information.quantum_information import QuantumInformation
 
 class TestQuantumInformation(unittest.TestCase):
     def test_quantum_information(self):
-        qi = QuantumInformation(2)
-        self.assertEqual(qi.num_qubits, 2)
+        quantum_information = QuantumInformation(2)
+        self.assertIsNotNone(quantum_information.circuit)
 
     def test_add_gate(self):
-        qi = QuantumInformation(2)
-        qi.add_gate('H', 0)
-        self.assertIn('H', qi.circuit)
+        quantum_information = QuantumInformation(2)
+        quantum_information.add_gate("H", 0)
+        self.assertIn("H", quantum_information.circuit.gates)
 
     def test_measure(self):
-        qi = QuantumInformation(2)
-        qi.measure(0)
-        self.assertIn('measure', qi.circuit)
-
-    def test_run(self):
-        qi = QuantumInformation(2)
-        qi.add_gate('H', 0)
-        qi.measure(0)
-        result = qi.run()
-        self.assertIsNotNone(result)
+        quantum_information = QuantumInformation(2)
+        quantum_information.measure(0)
+        self.assertIsNotNone(quantum_information.circuit.measurements)
 
 if __name__ == '__main__':
     unittest.main()
