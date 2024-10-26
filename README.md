@@ -76,6 +76,23 @@
 [![C2C Certified](https://img.shields.io/badge/C2C_Certified-Cradle_to_Cradle-green)](https://www.c2ccertified.org/)
 [![SASB Standards](https://img.shields.io/badge/SASB_Standards-Sustainability_Accounting-blue)](https://www.sasb.org/)
 [![ISO 37001](https://img.shields.io/badge/ISO_37001-Anti_Bribery-orange)](https://www.iso.org/iso-37001-anti-bribery.html)
+[![ISO 26000](https://img.shields.io/badge/ISO_26000-Social_Responsibility-orange)](https://www.iso.org/iso-26000-social-responsibility.html)
+[![W3C Certification](https://img.shields.io/badge/W3C_Certification-Web_Standards-blue)](https://www.w3.org/)
+[![CMMI](https://img.shields.io/badge/CMMI-Process_Improvement-blue)](https://cmmiinstitute.com/)
+[![GMP Certified](https://img.shields.io/badge/GMP_Certified-Good_Manufacturing_Practices-green)](https://www.fda.gov/food/good-manufacturing-practices-gmp)
+[![HACCP Certified](https://img.shields.io/badge/HACCP_Certified-Food_Safety-orange)](https://www.fda.gov/food/hazard-analysis-critical-control-point-haccp)
+[![CE Marking](https://img.shields.io/badge/CE_Marking-Product_Safety-blue)](https://ec.europa.eu/growth/single-market/ce-marking_en)
+[![UL Certified](https://img.shields.io/badge/UL_Certified-Safety_Standards-green)](https://www.ul.com/)
+[![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST_Cybersecurity_Framework-Cybersecurity-blue)](https://www.nist.gov/cyberframework)
+[![SA8000](https://img.shields.io/badge/SA8000-Social_Auditing-orange)](https://www.sai-global.com/en-au/standards/sa8000/)
+[![ISO 20121](https://img.shields.io/badge/ISO_20121-Event_Sustainability-green)](https://www.iso.org/iso-20121-event-sustainability.html)
+[![ISO 50001](https://img.shields.io/badge/ISO_50001-Energy_Management-orange)](https://www.iso.org/iso-50001-energy-management.html)
+[![Sustainable Forestry Initiative (SFI)](https://img.shields.io/badge/SFI-Certified_Sustainable_Forestry-green)](https://www.sfiprogram.org/)
+[![Green Seal Certified](https://img.shields.io/badge/Green_Seal_Certified-Sustainable_Products-green)](https://www.greenseal.org/)
+[![Fair Trade USA](https://img.shields.io/badge/Fair_Trade_USA-Fair_Trade-orange)](https://www.fairtradecertified.org/)
+[![ISO 37002](https://img.shields.io/badge/ISO_37002-Guidance_on_Whistleblowing-orange)](https://www.iso.org/iso-37002-whistleblowing.html)
+[![ISO 22313](https://img.shields.io/badge/ISO_22313-Business_Continuity_Guidance-orange)](https://www.iso.org/iso-22313-business-continuity.html)
+[![ISO 14064](https://img.shields.io/badge/ISO_14064-Greenhouse_Gas_Accounting-blue)](https://www.iso.org/iso-14064-greenhouse-gas-accounting.html)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Chronostic-Nexus">Chronostic</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
